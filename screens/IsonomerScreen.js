@@ -5,6 +5,8 @@ import {
   StyleSheet,
 } from 'react-native'
 
+import CardComponent from '../components/CardComponent'
+
 export default class IsonomerScreen extends React.Component {
 
   constructor(props){
@@ -17,7 +19,7 @@ export default class IsonomerScreen extends React.Component {
   render(){
     return (
       <View style={styles.container}>
-        <Text>{this.state.text}</Text>
+        <CardComponent/>
       </View>
     )
   }
