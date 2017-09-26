@@ -12,7 +12,10 @@ For you to actively contribute to this app make sure you have a solid understand
 * [Expo](https://expo.io)
 
 # Setup
-1. 
+1. Install dependencies
+2. Install Expo XDE
+3. Open project via Expo XDE
+
 
 ***
 **Built @ MHacks**
