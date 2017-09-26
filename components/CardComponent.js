@@ -5,7 +5,6 @@ export default class CardComponent extends Component {
   render() {
     return (
       <Container>
-        <Header />
         <Content>
           <Card style={{flex: 0}}>
             <CardItem>
